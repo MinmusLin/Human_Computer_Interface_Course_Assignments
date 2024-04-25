@@ -125,6 +125,14 @@ Thus far, the environment configuration for the Rasa project has been completed.
 
 * Open an integrated terminal in Visual Studio Code. You can do this by navigating to the top menu and selecting `View` > `Terminal`, or by using the shortcut.
 
+* Train the model.
+
+  ```bash
+  rasa train
+  ```
+
+  In a terminal, run this command to train the model.
+
 * Run actions server.
 
   ```bash
@@ -173,45 +181,9 @@ Thus far, the environment configuration for the Rasa project has been completed.
 
 * [Rasa Custom Actions](https://rasa.com/docs/rasa/custom-actions) Implementation guide for Rasa custom actions.
 
-* **The Difference and Connection between `openai.Completion.create` and `openai.ChatCompletion.create`.**
-
-  OpenAI offers different API endpoints for generating text completions, specifically `openai.Completion.create` and `openai.ChatCompletion.create`. Here's a comparison of their differences and connections.
-
-  * **Differences**
-
-    * **Purpose and Model Usage**
-
-      * `openai.Completion.create`: This endpoint is traditionally used with OpenAI's GPT-3 and GPT-3.5 models for generating text completions. It is versatile and can be used for a wide range of tasks like generating single responses based on a prompt, completing sentences, or creating content based on specific instructions.
-
-      * `openai.ChatCompletion.create`: Introduced primarily for use with the GPT-4 model, this endpoint is tailored for chat-like interactions. It's optimized for back-and-forth dialogue, maintaining context over multiple exchanges, and providing more human-like responses in conversational applications.
-
-    * **Context Management**
-
-      * `openai.Completion.create`: Typically, this endpoint doesn't manage context or dialogue history by itself. The user has to manually manage and provide the context with each request if a longer interaction history is needed.
-
-      * `openai.ChatCompletion.create`: Designed for conversations, this endpoint can automatically handle extended contexts and dialogue histories, making it more suitable for interactive applications like chatbots where ongoing context is crucial.
-
-    * **Response Style and Configuration**
-
-      * `openai.Completion.create`: Offers more flexibility in how responses are configured and shaped, with parameters like `max_tokens`, `temperature`, and `top_p` to control creativity, randomness, and response length.
-
-      * `openai.ChatCompletion.create`: While it also provides similar parameters for controlling the response, it is more optimized for conversation dynamics, potentially including built-in politeness and safety features suited for interactive scenarios.
-
-  * **Connections**
-
-    * **Underlying Technology**
-
-      Both endpoints are built on OpenAI's language models (like GPT-3 and GPT-4) and leverage deep learning techniques to generate text based on the input provided. The core technology involves training on a diverse range of internet text to understand and generate human-like text.
-
-    * **Use of Machine Learning**
-
-      Each uses machine learning to interpret the input prompt, predict the next words or sentences, and generate coherent, contextually appropriate text.
-
-    * **API Structure**
-
-      Both are part of the OpenAI API suite and share common features in terms of how they are accessed, such as requiring API keys for authentication, using HTTPS for requests, and providing JSON-formatted responses.
-
-  These endpoints are tailored for different applications but share a common foundation in OpenAI's advanced language models, making them versatile tools in various domains, from automated customer support to creative content generation.
+* [Additional Explanation](Additional_Explanation.md)
+  * Design of Prompts
+  * The Difference and Connection between `openai.Completion.create` and `openai.ChatCompletion.create`
 
 ## Documentation Update Date
 
