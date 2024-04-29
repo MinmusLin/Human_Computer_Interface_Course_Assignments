@@ -6,7 +6,7 @@ Human_Computer_Interface_Course_Assignments
 
 ## 仓库简介
 
-A collection of my human computer interface coursea ssignments.
+A collection of my human computer interface course assignments.
 
 2024年同济大学用户交互技术课程作业合集。
 
@@ -29,4 +29,4 @@ A collection of my human computer interface coursea ssignments.
 
 ## 文档更新日期
 
-2024年4月25日
+2024年4月29日
