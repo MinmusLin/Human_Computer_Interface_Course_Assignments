@@ -21,7 +21,7 @@ A collection of my human computer interface course assignments.
 * [Current State of Interactive Wearable Technology Development](Current_State_of_Interactive_Wearable_Technology_Development)
 交互式可穿戴技术发展现状调研
 
-* [Innovative_Applications_of_SAW_in_HCI](Innovative_Applications_of_SAW_in_HCI)
+* [Innovative Applications of SAW in HCI](Innovative_Applications_of_SAW_in_HCI)
 表面声波在人机交互中的创新应用
 
 * [StoryLingoKids](StoryLingoKids)
