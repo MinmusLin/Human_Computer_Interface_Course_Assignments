@@ -18,15 +18,15 @@ A collection of my human computer interface course assignments.
 * [ChatGPT in Rasa](ChatGPT_in_Rasa)
 在 Rasa 项目中调用 ChatGPT API
 
-* [Innovative_Applications_of_SAW_in_HCI](Innovative_Applications_of_SAW_in_HCI.md)
+* [Current State of Interactive Wearable Technology Development](Current_State_of_Interactive_Wearable_Technology_Development)
+交互式可穿戴技术发展现状调研
+
+* [Innovative_Applications_of_SAW_in_HCI](Innovative_Applications_of_SAW_in_HCI)
 表面声波在人机交互中的创新应用
 
-* [Report of Current State of Interactive Wearable Technology Development](Report_of_Current_State_of_Interactive_Wearable_Technology_Development.md)
-交互式可穿戴技术发展现状调研报告
-
-* [Slides of Current State of Interactive Wearable Technology Development](Slides_of_Current_State_of_Interactive_Wearable_Technology_Development.pptx)
-交互式可穿戴技术发展现状调研展示
+* [StoryLingoKids](StoryLingoKids)
+StoryLingoKids：寓教于乐、AI智能交互、引领幼儿英语启蒙教育体验
 
 ## 文档更新日期
 
-2024年4月29日
+2024年4月30日
