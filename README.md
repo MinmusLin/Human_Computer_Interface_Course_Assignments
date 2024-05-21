@@ -15,6 +15,9 @@ A collection of my human computer interface course assignments.
 
 ## 仓库组成
 
+* [Calendar Design](Calendar_Design)
+时间管理系统设计
+
 * [ChatGPT in Rasa](ChatGPT_in_Rasa)
 在 Rasa 项目中调用 ChatGPT API
 
@@ -29,4 +32,4 @@ StoryLingoKids：寓教于乐、AI智能交互、引领幼儿英语启蒙教育�
 
 ## 文档更新日期
 
-2024年4月30日
+2024年5月21日
