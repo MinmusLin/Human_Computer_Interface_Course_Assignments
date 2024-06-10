@@ -1,6 +1,4 @@
-# Design of Integrated Library Service System
-
-[TOC]
+# Integrated Library Service System Design Documentation
 
 ## 1 内容分析
 
