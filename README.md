@@ -27,6 +27,9 @@ A collection of my human computer interface course assignments.
 * [Innovative Applications of SAW in HCI](Innovative_Applications_of_SAW_in_HCI)
 表面声波在人机交互中的创新应用
 
+* [Integrated Library Service System Design](Integrated_Library_Service_System_Design)
+图书馆综合服务系统设计
+
 ## 相关仓库
 
 * [Story Lingo Kids](https://github.com/MinmusLin/Story_Lingo_Kids)
@@ -34,4 +37,4 @@ StoryLingoKids：寓教于乐、AI智能交互、引领幼儿英语启蒙教育�
 
 ## 文档更新日期
 
-2024年6月4日
+2024年6月10日
