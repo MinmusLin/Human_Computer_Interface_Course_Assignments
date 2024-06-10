@@ -168,7 +168,7 @@
 
 ### 2.3 关键任务场景和故事板设计
 
-![](Interface_Design/Storyboard.jpg)
+![](assets/Storyboard.jpg)
 
 ## 3 设计过程
 
@@ -439,4 +439,4 @@
 
 ## 7 文档更新日期
 
-2024年5月21日
+2024年6月10日

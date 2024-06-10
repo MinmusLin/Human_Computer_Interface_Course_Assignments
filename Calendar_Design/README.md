@@ -10,6 +10,9 @@ Calendar_Design
 
 ## 项目组成
 
+* `/assets`
+存放 `Calendar_Design_Documentation.md` 文件所需的相关图片资源
+
 * `/Demonstration`
 设计演示
 
@@ -24,4 +27,4 @@ Calendar_Design
 
 ## 文档更新日期
 
-2024年5月21日
+2024年6月10日
